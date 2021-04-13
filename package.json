@@ -1,0 +1,27 @@
+{
+  "name": "todo-api-flow-excercise",
+  "version": "1.0.0",
+  "description": "git flow ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgm-jensclerebout/todo-api-flow-excercise.git"
+  },
+  "author": "Jens Clerebout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgm-jensclerebout/todo-api-flow-excercise/issues"
+  },
+  "homepage": "https://github.com/pgm-jensclerebout/todo-api-flow-excercise#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
