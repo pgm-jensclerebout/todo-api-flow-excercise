@@ -1,2 +1,5 @@
 # ignore custom vs code settings
 .vscode
+
+# ignore node modules
+node_modules
